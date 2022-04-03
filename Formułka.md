@@ -1,0 +1,21 @@
+\💗 **Witaj drogi użytkowniku!** \💗
+Jeśli czujesz się samotny, dołącz na ten serwer, a znajdziesz może przyjaciela albo i nawet drugą połówkę! Jesteśmy również również wsparciem bota LabyBOT i nowego projektu o nazwie Skiffy. Zobacz nasza stronę https://skiffybot.xyz/
+
+\💞 » **Co możemy Ci zaoferować?**
+\✅ Miłą i ogarniętą administracje na poziomie
+\✅ Autorskiego bota napisanego w języku Javascript
+\✅ Ładny oraz intuicyjny wygląd serwera
+\✅ Rozbudowaną i kreatywną ekonomię
+\✅ Jeśli użytkownik serwera złamie regulamin nie dostaje od razu bana, tylko ląduje w więzieniu serwerowym
+\✅ Sporo fajnych emotek oraz mnóstwo ciekawych rang
+\✅ Na naszym serwerze nigdy nie jest nudno, ciągle coś się dzieje
+\✅ Staramy się dawać do więzienia stulejarzy, zboczeńców i pedofilów
+
+:page_facing_up: » **Poszukujemy**
+\✔️ Aktywnych użytkowników
+\✔️ Partnerstw, oraz ich realizatorów
+\✔️ Nitro boosterów
+
+\❤️ » **Serdecznie zapraszamy do dołączenia, obiecujemy ze nie pożałujesz!**
+\💖 » **Każdy jest u nas miłe widziany**
+\💕 » **Zaproszenie**: https://discord.gg/ufp4pnk73Y
