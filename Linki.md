@@ -5,6 +5,4 @@
 > https://noel.skiffybot.xyz/forms/kierownik-dark-weba
 
 ## ✨ Pozostałe adresy URL
-> **Skiffy:** https://skiffybot.xyz  
-> **Noel:** https://noel.skiffybot.xyz  
-> **API:** https://api.skiffybot.xyz
+> [Skiffy](https://skiffybot.xyz) | [Noel](https://noel.skiffybot.xyz) | [API](https://api.skiffybot.xyz)
