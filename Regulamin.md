@@ -47,3 +47,7 @@
 1. Administrator zastrzega sobie prawo do dowolnej zmiany niniejszego dokumentu bez konieczności informowania o tym użytkowników.
 2. Wprowadzone zmiany w regulaminie zawsze będą publikowane na tej stronie.
 3. Wprowadzone zmiany wchodzą w życie w dniu publikacji regulaminu serwera.
+
+## §6 Końcowe informacje
+Nie zezwalam na kopiowanie niniejszego tekstu.  
+Przeglądasz dokument w wersji z dnia 29.05.2022 roku.
