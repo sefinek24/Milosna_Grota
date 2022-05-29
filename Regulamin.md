@@ -12,8 +12,8 @@
 - [Końcowe informacje](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#6-ko%C5%84cowe-informacje)
 
 ## §2 Pojęcia
-- Self-bot: Bot podłączony do twojego konta Discord, wykonujący niepożądane akcje.
-- Alternatywne konto: Nic innego niż drugie konto w serwisie Discord.
+- `Self-bot`: Bot podłączony do twojego konta Discord, wykonujący niepożądane akcje.
+- `Alternatywne konto`: Nic innego niż drugie konto w serwisie Discord.
 
 ## §3 Postanowienia ogólne
 1. Nie kopiuj nazw kanałów, ról i regulaminu serwera.
