@@ -12,12 +12,12 @@
 - [Końcowe informacje](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#6-ko%C5%84cowe-informacje)
 
 ## §2 Pojęcia
-- Selfbot: Bot podłączony do twojego konta Discord, wykonujący niepożądane akcje.
+- Self-bot: Bot podłączony do twojego konta Discord, wykonujący niepożądane akcje.
 - Alternatywne konto: Nic innego niż drugie konto w serwisie Discord.
 
 ## §3 Postanowienia ogólne
 1. Nie kopiuj nazw kanałów, ról i regulaminu serwera.
-2. Nie używamy selfbotów. Multikonta na naszym serwerze będą banowane oraz inne alternatywne konta.
+2. Nie używamy self-botów. Multikonta na naszym serwerze będą banowane oraz inne alternatywne konta.
 3. Zabronione jest reklamowanie innych serwerów w prywatnych wiadomościach oraz na serwerze. Nie pozwalamy wykorzystywać naszego serwera do reklam w prywatnych konwersacjach.
 4. Wykorzystywanie jakichkolwiek błędów bota lub serwera, czy też działanie na ich szkodę będzie karane.
 5. Nieznajomość regulaminu nie zwalnia Cię z jego nie przestrzegania, dlatego dobrze go przeczytaj.
