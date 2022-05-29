@@ -12,7 +12,6 @@
 7. W kwestiach spornych czy nieobejmujących tego regulaminu administracja serwera ma ostateczny głos.
 8. Administrator serwera nie ma obowiązku podawać konkretnego powodu bana, wyrzucenia lub wyciszenia, jeśli powód kary jest dla każdego oczywisty.
 
-
 ## §2 Zasady kanałów tekstowych
 1. Używanie wulgarnych słów jest dozwolone, jednak zachowaj w tym pewien umiar.
 2. Nie zezwalamy komukolwiek na grożenie.
@@ -31,3 +30,8 @@
 2. Zabrania się przenoszenia bota muzycznego bez zgody słuchacza lub innych członków serwera.
 3. Zakaz używania modulatora głosu. Jedynie za zgodą administratora w celach humorystycznych.
 4. Zakazane jest używanie wszelakich bindów.
+
+## §4 Zasady związane z naszymi botami
+**1.** Jakiekolwiek sugestie na temat poprawy autorskich botów lub zauważonych w nim błędów zamieść kanale generalnym, a skargi czy narzekanie na ich funkcjonalność nie będą akceptowane.
+**2.** Używanie komend bota na kanałach do tego nieprzeznaczonych dla zwykłych użytkowników może skończyć się karą.
+**3.** Jeśli tworzysz aktualnie swojego bota, a chcesz się wzorować naszym, musisz powiadomić nas o tym w pierwszej kolejności.
