@@ -56,5 +56,5 @@
 
 ## §8 Końcowe informacje
 1. Nie zezwalam na kopiowanie niniejszego tekstu.
-2. Dla naszych użytkowników Noel: [Polityka plików Cookies](https://noel.skiffybot.xyz/cookies) i [Polityka prywatności](https://noel.skiffybot.xyz/privacy)
+2. Dla naszych użytkowników bota Noel: [Polityka plików Cookies](https://noel.skiffybot.xyz/cookies) i [Polityka prywatności](https://noel.skiffybot.xyz/privacy)
 3. Przeglądasz dokument w wersji z dnia 29.05.2022 roku.
