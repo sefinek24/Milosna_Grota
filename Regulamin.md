@@ -49,5 +49,5 @@
 3. Wprowadzone zmiany wchodzą w życie w dniu publikacji regulaminu serwera.
 
 ## §6 Końcowe informacje
-Nie zezwalam na kopiowanie niniejszego tekstu.  
-Przeglądasz dokument w wersji z dnia 29.05.2022 roku.
+1. Nie zezwalam na kopiowanie niniejszego tekstu.
+2. Przeglądasz dokument w wersji z dnia 29.05.2022 roku.
