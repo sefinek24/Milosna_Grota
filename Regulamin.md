@@ -18,12 +18,11 @@
 ## §3 Postanowienia ogólne
 1. Nie kopiuj nazw kanałów, ról i regulaminu serwera.
 2. Nie używamy self-botów. Multikonta na naszym serwerze będą banowane oraz inne alternatywne konta.
-3. Zabronione jest reklamowanie innych serwerów w prywatnych wiadomościach oraz na serwerze. Nie pozwalamy wykorzystywać naszego serwera do reklam w prywatnych konwersacjach.
-4. Wykorzystywanie jakichkolwiek błędów bota lub serwera, czy też działanie na ich szkodę będzie karane.
+3. Zabronione jest reklamowanie innych serwerów. Wiąże się to z otrzymaniem automatycznego bana. Nie pozwalamy wykorzystywać naszego serwera również do reklam w prywatnych konwersacjach.
+4. Złośliwość, chamstwo, natarczywość czy podstęp. Wszelkie zachowania poniżające kogokolwiek czy obrażające są niedozwolone.
 5. Nieznajomość regulaminu nie zwalnia Cię z jego nie przestrzegania, dlatego dobrze go przeczytaj.
-6. Złośliwość, chamstwo, natarczywość czy podstęp. Wszelkie zachowania poniżające kogokolwiek czy obrażające.
-7. W kwestiach spornych czy nieobejmujących tego regulaminu administracja serwera ma ostateczny głos.
-8. Administrator serwera nie ma obowiązku podawać konkretnego powodu bana, wyrzucenia lub wyciszenia, jeśli powód kary jest dla każdego oczywisty.
+6. W kwestiach spornych czy nieobejmujących tego regulaminu administracja serwera ma ostateczny głos.
+7. Administrator serwera nie ma obowiązku podawać konkretnego powodu bana, wyrzucenia lub wyciszenia, jeśli powód kary jest dla każdego oczywisty.
 
 ## §4 Zasady kanałów tekstowych
 1. Używanie wulgarnych słów jest dozwolone, jednak zachowaj w tym pewien umiar.
@@ -35,8 +34,9 @@
 7. Zakaz spamowania, floodowania, nadmiernego pingowania. Niepotrzebne pingowanie właściciela lub kogokolwiek z naszej ekipy będzie karane. Masz prawo nas oznaczać, ale jedynie wtedy, gdy jest to naprawdę konieczne.
 8. Staraj się pisać posty w jednej wiadomości.
 9. Traktuj innych tak samo, jak Ty chciałbyś być traktowany. Nie prowokuj do kłótni.
-10. Jeśli masz jakieś propozycje dotyczące serwera, opublikuj je na kanale do tego przeznaczonym. Pamiętaj, żeby miała ona jakąkolwiek wartość merytoryczną.
-11. Wysyłanie gore lub treści +18 jest zabronione.
+10. Za wysyłanie gore, czeka Cię natychmiastowy ban.
+11. Treści +18. Wiadomości propagujące nazizm lub nienawiść do osób czarnoskórych. Zachowania te są u nas niedozwolone.
+12. Jeśli masz jakieś propozycje dotyczące serwera, opublikuj je na kanale do tego przeznaczonym. Pamiętaj, żeby miała ona jakąkolwiek wartość merytoryczną.
 
 ## §5 Zasady kanałów głosowych
 1. Nie zezwalamy nagrywać żadnej rozmowy bez wiedzy i zgody każdego uczestnika kanału głosowego.
@@ -45,9 +45,10 @@
 4. Zakazane jest używanie wszelakich bindów.
 
 ## §6 Zasady związane z naszymi botami
-1. Jakiekolwiek sugestie na temat poprawy autorskich botów lub zauważonych w nim błędów zamieść kanale generalnym, a skargi czy narzekanie na ich funkcjonalność nie będą akceptowane.
-2. Używanie komend bota na kanałach do tego nieprzeznaczonych dla zwykłych użytkowników może skończyć się karą.
+1. Jakiekolwiek sugestie na temat poprawy autorskich botów lub zauważonych w nim błędów zamieść kanale z propozycjami. Skargi czy narzekanie na ich funkcjonalność nie będą akceptowane.
+2. Wykorzystywanie jakichkolwiek błędów bota lub serwera, czy też działanie na ich szkodę będzie karane.
 3. Jeśli tworzysz aktualnie swojego bota, a chcesz się wzorować naszym, musisz powiadomić nas o tym w pierwszej kolejności.
+4. Używanie komend bota na kanałach do tego nieprzeznaczonych dla zwykłych użytkowników może skończyć się karą.
 
 ## §7 Zmiany w regulaminie
 1. Administrator zastrzega sobie prawo do dowolnej zmiany niniejszego dokumentu bez konieczności informowania o tym użytkowników.
@@ -57,5 +58,5 @@
 ## §8 Końcowe informacje
 1. Nie zezwalam na kopiowanie niniejszego tekstu.
 2. Dla naszych użytkowników bota Noel: [Polityka plików Cookies](https://noel.skiffybot.xyz/cookies) i [Polityka prywatności](https://noel.skiffybot.xyz/privacy)
-3. Email kontaktowy: contact@sefinek.fun.
-4. Przeglądasz dokument w wersji z dnia 29.05.2022 roku.
+3. Email kontaktowy: contact@sefinek.fun
+4. Przeglądasz dokument w wersji z dnia 30.05.2022 roku.
