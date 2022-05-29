@@ -1,4 +1,6 @@
-<img src="https://cdn.skiffybot.xyz/assets/bydgobot/server-info/rules.png" alt="Regulamin serwera" align="center" height="300">
+<div align="center">
+    <img src="https://cdn.skiffybot.xyz/assets/bydgobot/server-info/rules.png" alt="Regulamin serwera" height="250">
+</div>
 
 ## §1 Postanowienia ogólne
 1. Nie kopiuj nazw kanałów, ról i regulaminu serwera.
