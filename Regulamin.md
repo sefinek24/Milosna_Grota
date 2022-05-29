@@ -32,6 +32,11 @@
 4. Zakazane jest używanie wszelakich bindów.
 
 ## §4 Zasady związane z naszymi botami
-**1.** Jakiekolwiek sugestie na temat poprawy autorskich botów lub zauważonych w nim błędów zamieść kanale generalnym, a skargi czy narzekanie na ich funkcjonalność nie będą akceptowane.
-**2.** Używanie komend bota na kanałach do tego nieprzeznaczonych dla zwykłych użytkowników może skończyć się karą.
-**3.** Jeśli tworzysz aktualnie swojego bota, a chcesz się wzorować naszym, musisz powiadomić nas o tym w pierwszej kolejności.
+1. Jakiekolwiek sugestie na temat poprawy autorskich botów lub zauważonych w nim błędów zamieść kanale generalnym, a skargi czy narzekanie na ich funkcjonalność nie będą akceptowane.
+2. Używanie komend bota na kanałach do tego nieprzeznaczonych dla zwykłych użytkowników może skończyć się karą.
+3. Jeśli tworzysz aktualnie swojego bota, a chcesz się wzorować naszym, musisz powiadomić nas o tym w pierwszej kolejności.
+
+## §5 Zmiany w regulaminie
+1. Administrator zastrzega sobie prawo do dowolnej zmiany niniejszego dokumentu bez konieczności informowania o tym użytkowników.
+2. Wprowadzone zmiany w regulaminie zawsze będą publikowane na tej stronie.
+3. Wprowadzone zmiany wchodzą w życie w dniu publikacji regulaminu serwera.
