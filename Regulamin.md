@@ -2,6 +2,13 @@
     <img src="https://cdn.skiffybot.xyz/assets/bydgobot/server-info/rules.png" alt="Regulamin serwera" height="226">
 </div>
 
+## §0 Spis treści
+- [Postanowienia ogólne](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#1-postanowienia-og%C3%B3lne)
+- [Zasady kanałów tekstowych](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#2-zasady-kana%C5%82%C3%B3w-tekstowych)
+- [Zasady kanałów głosowych](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#3-zasady-kana%C5%82%C3%B3w-g%C5%82osowych)
+- [Zasady związane z naszymi botami](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#4-zasady-zwi%C4%85zane-z-naszymi-botami)
+- [Zmiany w regulaminie](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#5-zmiany-w-regulaminie)
+
 ## §1 Postanowienia ogólne
 1. Nie kopiuj nazw kanałów, ról i regulaminu serwera.
 2. Nie używamy selfbotów. Multikonta na naszym serwerze będą banowane oraz inne alternatywne konta.
