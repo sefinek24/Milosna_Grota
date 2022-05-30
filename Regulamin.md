@@ -58,6 +58,6 @@
 
 ## §8 Końcowe informacje
 1. Nie zezwalam na kopiowanie niniejszego tekstu.
-2. Dla społeczności bota Noel: [Polityka plików Cookies](https://noel.skiffybot.xyz/cookies) i [Polityka prywatności](https://noel.skiffybot.xyz/privacy)
+2. Dla społeczności bota Noel: [Polityka plików Cookies](https://noel.skiffybot.xyz/cookies), [Polityka prywatności](https://noel.skiffybot.xyz/privacy)
 3. E-mail kontaktowy: contact@sefinek.fun
 4. Przeglądasz dokument w wersji z dnia 30.05.2022 roku.
