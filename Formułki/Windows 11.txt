@@ -2,7 +2,7 @@
 Czujesz się samotnie? Jest Ci może smutno? Dołącz na nasz serwer, a znajdziesz może przyjaciela albo i nawet swoją drugą połówkę!
 Co najlepsze, jesteśmy również wsparciem bota LabyBOT i nowego projektu o nazwie Skiffy. Będziemy wdzięczni, jeżeli zapoznasz się z dostępnymi informacjami na naszych stronach.
 
-\❤️\️ » **Co możemy Ci zaoferować?**
+\❤️ » **Co możemy Ci zaoferować?**
 \✅ Miłą i ogarniętą administracje na poziomie
 \✅ Autorskiego bota napisanego w języku Javascript
 \✅ Ładny oraz intuicyjny wygląd serwera
