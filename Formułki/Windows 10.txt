@@ -1,8 +1,8 @@
-`\😻 **Witaj drogi użytkowniku!** \😻
-Czujesz się samotnie? Jest Ci może smutno? Dołącz na nasz serwer, a znajdziesz może przyjaciela albo i nawet swoją drugą połówkę!
+`\💗 **Witaj drogi użytkowniku!** \💗
+Czujesz się może samotny? Dołącz na ten serwer, a na pewno znajdziesz przyjaciela albo i nawet drugą połówkę!
 Co najlepsze, jesteśmy również wsparciem bota LabyBOT i nowego projektu o nazwie Skiffy. Będziemy wdzięczni, jeżeli zapoznasz się z dostępnymi informacjami na naszych stronach.
 
-\❤️\️ » **Co możemy Ci zaoferować?**
+\💞 » **Co możemy Ci zaoferować?**
 \✅ Miłą i ogarniętą administracje na poziomie
 \✅ Autorskiego bota napisanego w języku Javascript
 \✅ Ładny oraz intuicyjny wygląd serwera
@@ -10,11 +10,11 @@ Co najlepsze, jesteśmy również wsparciem bota LabyBOT i nowego projektu o naz
 \✅ Jeśli użytkownik serwera złamie regulamin nie dostaje od razu bana, tylko ląduje w więzieniu serwerowym
 \✅ Sporo fajnych emotikonów oraz mnóstwo ciekawych rang
 \✅ Na naszym serwerze nigdy nie jest nudno, zawsze coś się dzieje
-\✅ Zerowa ilość pingów everyone i here
 
-\🤖 » **Nasze autorskie boty**
-\💙 **Nowy bot Skiffy:** __https://noel.skiffybot.xyz__
-\👽 **Najlepszy bot do 6obcy:** __https://skiffybot.xyz/6obcy__
+\🤖 » **Dodaj naszego bota na swój serwer**
+\✨ **Noel:** https://noel.skiffybot.xyz
+\⭐ **LabyBOT:** https://skiffybot.xyz/labybot
+\🛠️️ **Chcesz zostać naszym beta testerem? Dołącz na serwer i skontaktuj się z nami!**
 
-\🐱 » **Serdecznie zapraszamy do dołączenia. Obiecujemy, że nie pożałujesz!**
-\😽 » **Zaproszenie**: https://discord.gg/ufp4pnk73Y`
+\❤️ » **Serdecznie zapraszamy do dołączenia. Obiecujemy, że nie pożałujesz!**
+\💖 » **Zaproszenie**: https://discord.gg/ufp4pnk73Y`

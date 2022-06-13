@@ -1,8 +1,8 @@
 ## 🤝 Rekrutacja na Realizatora partnerstw
-> Wpisz polecenie `/realizator-partnerstw formularz` na naszym serwerze.
+> https://noel.skiffybot.xyz/forms/realizator-partnerstw
 
-## 🔒 Rekrutacja na stanowisko Kierownik dark webu
-> Wpisz polecenie `/kierownik-darkweba formularz` na naszym serwerze.
+## 🌍 Rekrutacja na stanowisko Kierownik dark webu
+> https://noel.skiffybot.xyz/forms/kierownik-dark-weba
 
-## 🌍 Pozostałe adresy URL
-> [Skiffy](https://skiffybot.xyz) | [Noel](https://noel.skiffybot.xyz) | [API](https://api.skiffybot.xyz) | [Sefinek.fun](https://sefinek.fun)
+## ✨ Pozostałe adresy URL
+> [Skiffy](https://skiffybot.xyz) | [Noel](https://noel.skiffybot.xyz) | [API](https://api.skiffybot.xyz)
