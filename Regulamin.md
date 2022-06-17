@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn.skiffybot.xyz/assets/bydgobot/server-info/rules.png" alt="Regulamin serwera" height="226">
+    <img src="https://cdn.skiffybot.xyz/assets/bydgobot/server-info/rules.png" alt="Regulamin serwera" height="225">
 </div>
 
 ## §1 Spis treści
