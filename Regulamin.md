@@ -11,7 +11,7 @@
 - [Zmiany w regulaminie](#5-zmiany-w-regulaminie)
 - [Końcowe informacje](#6-ko%C5%84cowe-informacje)
 
-## <a href="pojecia">§2 Pojęcia</a>
+## <a id="pojecia"></a> §2 Pojęcia
 - `Self-bot`: Bot podłączony do twojego konta Discord, wykonujący niepożądane akcje.
 - `Alternatywne konto`: Nic innego niż drugie konto w serwisie Discord.
 
