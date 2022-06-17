@@ -3,15 +3,15 @@
 </div>
 
 ## §1 Spis treści
-- [Postanowienia ogólne](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#1-postanowienia-og%C3%B3lne)
-- [Pojęcia](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#2-poj%C4%99cia)
-- [Zasady kanałów tekstowych](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#2-zasady-kana%C5%82%C3%B3w-tekstowych)
-- [Zasady kanałów głosowych](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#3-zasady-kana%C5%82%C3%B3w-g%C5%82osowych)
-- [Zasady związane z naszymi botami](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#4-zasady-zwi%C4%85zane-z-naszymi-botami)
-- [Zmiany w regulaminie](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#5-zmiany-w-regulaminie)
-- [Końcowe informacje](https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md#6-ko%C5%84cowe-informacje)
+- [Pojęcia](#pojecia)
+- [Postanowienia ogólne](#1-postanowienia-og%C3%B3lne)
+- [Zasady kanałów tekstowych](#2-zasady-kana%C5%82%C3%B3w-tekstowych)
+- [Zasady kanałów głosowych](#3-zasady-kana%C5%82%C3%B3w-g%C5%82osowych)
+- [Zasady związane z naszymi botami](#4-zasady-zwi%C4%85zane-z-naszymi-botami)
+- [Zmiany w regulaminie](#5-zmiany-w-regulaminie)
+- [Końcowe informacje](#6-ko%C5%84cowe-informacje)
 
-## §2 Pojęcia
+## <a href="pojecia">§2 Pojęcia</a>
 - `Self-bot`: Bot podłączony do twojego konta Discord, wykonujący niepożądane akcje.
 - `Alternatywne konto`: Nic innego niż drugie konto w serwisie Discord.
 
