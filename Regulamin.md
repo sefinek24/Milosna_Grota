@@ -15,7 +15,7 @@
 - `Self-bot`: Bot podłączony do twojego konta Discord, wykonujący niepożądane akcje.
 - `Alternatywne konto`: Nic innego niż drugie konto w serwisie Discord.
 
-## <a id="#postanowienia-ogolne"></a> §3 Postanowienia ogólne
+## <a id="postanowienia-ogolne"></a> §3 Postanowienia ogólne
 1. Nie kopiuj nazw kanałów, ról i regulaminu serwera.
 2. Nie używamy self-botów. Multikonta na naszym serwerze będą banowane oraz inne alternatywne konta.
 3. Zabronione jest reklamowanie innych serwerów. Wiąże się to z otrzymaniem automatycznego bana. Nie pozwalamy wykorzystywać naszego serwera również do reklam w prywatnych konwersacjach.
