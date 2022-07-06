@@ -1,14 +1,14 @@
-## 📝 Opis serwera pod dany OS
+## 📝 〢 Opis serwera pod dany OS
 - [Windows 11](Opis/Windows%2011.txt)
 - [Windows 10](Opis/Windows%2010.txt)
 - [iOS](Opis/iOS.txt)
 
-## ⚠️ Wymagania partnerskie
+## ⚠️ 〢 Wymagania partnerskie
 1. Twój serwer nie jest serwerem NSFW.
 2. Nie promujesz na swoim serwerze cheatów do gier oraz spiraconych oprogramowań.
 3. Serwer nie jest serwerem typu: 5 zaproszeń = Discord Nitro.
 
-## 💰 Nagrody dla realizatorów
+## 💰 〢 Nagrody dla realizatorów
 - `03 partnerstw`: 1000 waluty serwerowej co godzinę.
 - `05 partnerstw`: Przypięcie twojego ogłoszenia o szukaniu drugiej połówki.
 - `06 partnerstw`: Przypięcie twojego serwera na kanale partnerstwa.
@@ -23,4 +23,4 @@
 - `30 partnerstw`: O wiele większe szanse na zgarnięcie Straż Bydgoska.
 - `40 partnerstw`: Ogromne szanse na rolę Pomocnik.
 - `45 partnerstw`: Wypromowanie twoich social mediów na kanale informacje.
-- `50 partnerstw`: 50k kremówek .
+- `50 partnerstw`: 50k kremówek.
