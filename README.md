@@ -4,5 +4,8 @@ Oficjalne repozytorium serwera Discord. Znajdziesz tutaj aktualną wersję nasze
 ## 🌍 〢 Zaproszenia na serwer
 https://discord.gg/randkownia
 
+## 🤝 〢 Partnerstwa
+https://github.com/sefinek24/Randkownia-Laby_Discord/tree/main/Partnerships
+
 ## 📝 〢 Regulamin
 https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Rules.md
