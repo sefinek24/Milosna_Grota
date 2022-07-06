@@ -25,4 +25,4 @@
 - `45 partnerstw`: Wypromowanie twoich social mediów na kanale informacje.
 - `50 partnerstw`: 50000 <img src="https://cdn.discordapp.com/emojis/917939102823899156.webp" height="12">
 
-Kremówki <img src="https://cdn.discordapp.com/emojis/917939102823899156.webp" height="12" alt="Kremówka"> to nasza serwerowa waluta na ekonomii.
+> Kremówki <img src="https://cdn.discordapp.com/emojis/917939102823899156.webp" height="12" alt="Kremówka"> to nasza serwerowa waluta na ekonomii.
