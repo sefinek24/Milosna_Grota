@@ -13,7 +13,7 @@
 - `05 partnerstw`: Przypięcie twojego ogłoszenia o szukaniu drugiej połówki.
 - `06 partnerstw`: Przypięcie twojego serwera na kanale partnerstwa.
 - `07 partnerstw`: 1 serwerowy niewolnik.
-- `10 partnerstw`: 25k kremówek na ekonomii.
+- `10 partnerstw`: 25000 <img src="https://cdn.discordapp.com/emojis/917939102823899156.webp" height="12">
 - `13 partnerstw`: Własna ranga dla ciebie, którą Ci zrobimy.
 - `15 partnerstw`: Unikatowa ranga o nazwie Kull dzieciak.
 - `17 partnerstw`: Ranga Kopacz złota, dzięki której odkryjesz specjalny kanał z mnóstwem memów.
@@ -24,3 +24,5 @@
 - `40 partnerstw`: Ogromne szanse na rolę Pomocnik.
 - `45 partnerstw`: Wypromowanie twoich social mediów na kanale informacje.
 - `50 partnerstw`: 50000 <img src="https://cdn.discordapp.com/emojis/917939102823899156.webp" height="12">
+
+Kremówki <img src="https://cdn.discordapp.com/emojis/917939102823899156.webp" height="12" alt="Kremówka"> to nasza serwerowa waluta na ekonomii.
