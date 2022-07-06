@@ -1,7 +1,7 @@
 ## 📝 〢 Opis serwera pod dany OS
-- [Windows 11](Opis/Windows%2011.txt)
-- [Windows 10](Opis/Windows%2010.txt)
-- [iOS](Opis/iOS.txt)
+- [Windows 11](Description/Windows%2011.txt)
+- [Windows 10](Description/Windows%2010.txt)
+- [iOS](Description/iOS.txt)
 
 ## ⚠️ 〢 Wymagania partnerskie
 1. Twój serwer nie jest serwerem NSFW.
