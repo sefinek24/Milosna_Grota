@@ -1,8 +1,8 @@
-## ⭐ Randkownia & Laby
+## ⭐ 〢 Randkownia & Laby
 Oficjalne repozytorium serwera Discord. Znajdziesz tutaj aktualną wersję naszej reklamy i nie tylko. Opis będzie najlepiej się prezentować w systemie Windows 11.
 
-## 🌍 Zaproszenia na serwer
+## 🌍 〢 Zaproszenia na serwer
 https://discord.gg/randkownia
 
-## 📝 Regulamin
+## 📝 〢 Regulamin
 https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Regulamin.md
