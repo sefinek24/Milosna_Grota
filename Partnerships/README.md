@@ -23,4 +23,4 @@
 - `30 partnerstw`: O wiele większe szanse na zgarnięcie Straż Bydgoska.
 - `40 partnerstw`: Ogromne szanse na rolę Pomocnik.
 - `45 partnerstw`: Wypromowanie twoich social mediów na kanale informacje.
-- `50 partnerstw`: 50k kremówek.
+- `50 partnerstw`: 50000 <img src="https://cdn.discordapp.com/emojis/917939102823899156.webp" height="12">
