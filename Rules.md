@@ -7,6 +7,7 @@
 - [Postanowienia ogólne](#postanowienia-ogolne)
 - [Zasady kanałów tekstowych](#zasady-kanalow-tekstowych)
 - [Zasady kanałów głosowych](#zasady-kanalow-glosowych)
+- [Wytyczne kategorii Poszukuję & Randki](#ogloszenia)
 - [Zasady związane z naszymi botami](#zasady-zwiazane-z-nasyzmi-botami)
 - [Zmiany w regulaminie](#zmiany-w-regulaminie)
 - [Końcowe informacje](#koncowe-informacje)
@@ -44,20 +45,32 @@
 3. Zakaz używania modulatora głosu. Jedynie za zgodą administratora w celach humorystycznych.
 4. Zakazane jest używanie wszelakich bindów.
 
-## <a id="zasady-zwiazane-z-nasyzmi-botami"></a>§6 Zasady związane z naszymi botami
+## <a id="ogloszenia"></a>§6 Wytyczne kategorii Poszukuję & Randki
+a) Kanał chłopaka, dziewczyny, przyjaciół.
+1. Nie zezwalamy na publikowanie treści, w których wspomina się o grach League of Legends (w szczególności), Fortnite lub Valorant.
+2. Cringowe wiadomości będą usuwane, a ich autor zostanie ukarany. Zachowaj odpowiedni poziom.
+3. Nie publikuj bezbezkich wiadomości, które nikogo nie śmieszą.
+
+b) Kanał związany z ogłoszeniami
+1. Musisz mieć przynajmniej 14 lat, aby móc opublikować ogłoszenie na tym kanale.
+2. Zdania muszą być pełne merytoryki, bez zbędnego pisania o niczym istotnym. Wymagamy by w owym ogłoszeniu, było napisane sporo informacji o Tobie czy też nawet i o Twoich zainteresowaniach. Jeśli chcesz, napisać wszystko na odwal, zrób to na podstawowych kanałach do szukania swojej miłości.
+3. Wszelkie przejawy trolli, czy żarty na temat tej funkcji będą przez nas surowo karane.
+4. Stosuj się do podanych pól w poleceniu. Niepoprawnie napisane ogłoszenie, nie będzie przez nas akceptowane.
+
+## <a id="zasady-zwiazane-z-nasyzmi-botami"></a>§7 Zasady związane z naszymi botami
 1. Jakiekolwiek sugestie na temat poprawy autorskich botów zamieść kanale z propozycjami. Skargi czy narzekanie na ich funkcjonalność nie będą akceptowane.
 2. Jeżeli zauważyłeś jakiś błąd w botach, zgłoś go nam na kanale generalnym.
 3. Wykorzystywanie jakichkolwiek błędów bota lub serwera, czy też działanie na ich szkodę będzie karane.
 4. Tworzysz aktualnie swojego bota i chcesz się wzorować naszym? Musisz powiadomić nas o tym w pierwszej kolejności. Damy Ci znać czy godzimy się na to.
 5. Używanie komend bota na kanałach do tego nieprzeznaczonych dla zwykłych użytkowników może skończyć się karą.
 
-## <a id="zmiany-w-regulaminie"></a>§7 Zmiany w regulaminie
+## <a id="zmiany-w-regulaminie"></a>§8 Zmiany w regulaminie
 1. Administrator zastrzega sobie prawo do dowolnej zmiany niniejszego dokumentu bez konieczności informowania o tym użytkowników.
 2. Wprowadzone zmiany w regulaminie zawsze będą publikowane na tej stronie.
 3. Wprowadzone zmiany wchodzą w życie w dniu publikacji regulaminu serwera.
 
-## <a id="koncowe-informacje"></a>§8 Końcowe informacje
+## <a id="koncowe-informacje"></a>§9 Końcowe informacje
 1. Nie zezwalam na kopiowanie niniejszego tekstu.
 2. Dla społeczności bota Noel: [Polityka plików Cookies](https://noel.skiffybot.xyz/cookies), [Polityka prywatności](https://noel.skiffybot.xyz/privacy)
 3. E-mail kontaktowy: contact@sefinek.fun lub support@skiffybot.xyz
-4. Przeglądasz dokument w wersji z dnia 17.06.2022 roku.
+4. Przeglądasz dokument w wersji z dnia 07.07.2022 roku.
