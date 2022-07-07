@@ -46,12 +46,12 @@
 4. Zakazane jest używanie wszelakich bindów.
 
 ## <a id="ogloszenia"></a>§6 Wytyczne kategorii Poszukuję & Randki
-a) Kanał chłopaka, dziewczyny, przyjaciół.
+### a) Kanał chłopaka, dziewczyny, przyjaciół.
 1. Nie zezwalamy na publikowanie treści, w których wspomina się o grach League of Legends (w szczególności), Fortnite lub Valorant.
 2. Cringowe wiadomości będą usuwane, a ich autor zostanie ukarany. Zachowaj odpowiedni poziom.
 3. Nie publikuj bezbezkich wiadomości, które nikogo nie śmieszą.
 
-b) Kanał związany z ogłoszeniami
+### b) Kanał związany z ogłoszeniami
 1. Musisz mieć przynajmniej 14 lat, aby móc opublikować ogłoszenie na tym kanale.
 2. Zdania muszą być pełne merytoryki, bez zbędnego pisania o niczym istotnym. Wymagamy by w owym ogłoszeniu, było napisane sporo informacji o Tobie czy też nawet i o Twoich zainteresowaniach. Jeśli chcesz, napisać wszystko na odwal, zrób to na podstawowych kanałach do szukania swojej miłości.
 3. Wszelkie przejawy trolli, czy żarty na temat tej funkcji będą przez nas surowo karane.
