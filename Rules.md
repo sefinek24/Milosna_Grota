@@ -56,6 +56,10 @@
 2. Zdania muszą być pełne merytoryki, bez zbędnego pisania o niczym istotnym. Wymagamy by w owym ogłoszeniu, było napisane sporo informacji o Tobie czy też nawet i o Twoich zainteresowaniach. Jeśli chcesz, napisać wszystko na odwal, zrób to na podstawowych kanałach do szukania swojej miłości.
 3. Wszelkie przejawy trolli, czy żarty na temat tej funkcji będą przez nas surowo karane.
 4. Stosuj się do podanych pól w poleceniu. Niepoprawnie napisane ogłoszenie, nie będzie przez nas akceptowane.
+5. Jak powinno wyglądać ogłoszenie?
+- Nie dodawaj żadnych emotikonów.
+- Cała wypowiedź musi być zawarta w jednej linijce.
+- Zadbaj o merytoryke wypowiedzi.
 
 ## <a id="zasady-zwiazane-z-nasyzmi-botami"></a>§7 Zasady związane z naszymi botami
 1. Jakiekolwiek sugestie na temat poprawy autorskich botów zamieść kanale z propozycjami. Skargi czy narzekanie na ich funkcjonalność nie będą akceptowane.
