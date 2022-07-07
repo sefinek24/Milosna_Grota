@@ -57,7 +57,7 @@
 3. Wszelkie przejawy trolli, czy żarty na temat tej funkcji będą przez nas surowo karane.
 4. Stosuj się do podanych pól w poleceniu. Niepoprawnie napisane ogłoszenie, nie będzie przez nas akceptowane.
 
-#### » Jak powinno wyglądać ogłoszenie?
+### » Jak powinno wyglądać ogłoszenie?
 - Nie dodawaj żadnych emotikonów.
 - Cała wypowiedź musi być zawarta w jednej linijce.
 - Zadbaj o merytoryke wypowiedzi.
