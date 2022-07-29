@@ -5,7 +5,7 @@ Oficjalne repozytorium serwera Discord. Znajdziesz tutaj aktualną wersję nasze
 https://discord.gg/SznDGMMFg5
 
 ## 🤝 〢 Partnerstwa
-https://github.com/sefinek24/Randkownia-Laby_Discord/tree/main/Partnerships
+https://github.com/sefinek24/Randkownia_Discord/tree/main/Partnerships
 
 ## 📝 〢 Regulamin
-https://github.com/sefinek24/Randkownia-Laby_Discord/blob/main/Rules.md
+https://github.com/sefinek24/Randkownia_Discord/blob/main/Rules.md
