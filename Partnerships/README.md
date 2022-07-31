@@ -1,6 +1,7 @@
 ## 📝 〢 Opis serwera pod dany OS
 - [Windows 11](Description/Windows%2011.txt)
 - [Windows 10](Description/Windows%2010.txt)
+- [Android](Description/Android.txt)
 - [iOS](Description/iOS.txt)
 
 ## ⚠️ 〢 Wymagania partnerskie

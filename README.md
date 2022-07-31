@@ -1,4 +1,4 @@
-## ⭐ 〢 Randkownia & Laby
+## ⭐ 〢 Randkownia 😽
 Oficjalne repozytorium serwera Discord. Znajdziesz tutaj aktualną wersję naszej reklamy i nie tylko. Opis będzie najlepiej się prezentować w systemie Windows 11.
 
 ## 🌍 〢 Zaproszenia na serwer
