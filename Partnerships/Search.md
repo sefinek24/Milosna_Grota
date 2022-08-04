@@ -1,4 +1,4 @@
-```md
+```
 📢 **Serwer 300+ szuka realizatorów partnerstw!**
 
 💰 Bonusy bycia Realizatorem:
