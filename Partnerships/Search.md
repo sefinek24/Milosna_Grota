@@ -1,7 +1,7 @@
 ```
 📢 **Serwer 300+ szuka realizatorów partnerstw!**
 
-💰 Bonusy bycia Realizatorem:
+💰 Bonusy bycia realizatorem:
 • Duże szanse na zgarnięcie roli administracyjnej w przyszłości
 • Sporo nagród związanych z ekonomia i serwerowymi rangami
 • Promo twojego serwera, i social medii
