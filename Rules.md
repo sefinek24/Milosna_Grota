@@ -24,6 +24,7 @@
 5. Nieznajomość regulaminu nie zwalnia Cię z jego nie przestrzegania, dlatego dobrze go przeczytaj.
 6. W kwestiach spornych czy nieobejmujących tego regulaminu administracja serwera ma ostateczny głos.
 7. Administrator serwera nie ma obowiązku podawać konkretnego powodu bana, wyrzucenia lub wyciszenia, jeśli powód kary jest dla każdego oczywisty.
+8. Nie bądź cringe.
 
 ## <a id="zasady-kanalow-tekstowych"></a>§4 Zasady kanałów tekstowych
 1. Używanie wulgarnych słów jest dozwolone, jednak zachowaj w tym pewien umiar.
