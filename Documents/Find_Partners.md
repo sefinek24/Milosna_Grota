@@ -1,5 +1,5 @@
 ```
-📢 **Serwer 300+ szuka realizatorów partnerstw i administracji!**
+📢 **Serwer 1000+ szuka realizatorów partnerstw i administracji!**
 
 💰 **Bonusy bycia realizatorem:**
 • Duże szanse na zgarnięcie roli administracyjnej w przyszłości
