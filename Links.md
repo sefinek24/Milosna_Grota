@@ -5,4 +5,4 @@ Wpisz polecenie `/realizator-partnerstw formularz` na naszym serwerze.
 Wpisz polecenie `/kierownik-darkweba formularz` na naszym serwerze.
 
 ## 🌍 〢 Pozostałe adresy URL
-> [Skiffy](https://skiffybot.xyz) | [Noel](https://noel.skiffybot.xyz) | [API](https://api.skiffybot.xyz) | [Sefinek.fun](https://sefinek.fun)
+> [Skiffy](https://sefinek.net/skiffy) | [Noel](https://noel.sefinek.net) | [API](https://api.sefinek.net) | [Sefinek.net](https://sefinek.net)

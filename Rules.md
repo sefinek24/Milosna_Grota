@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn.skiffybot.xyz/images/bydgobot/server-info/rules.png?website=github" alt="Regulamin serwera" height="225">
+    <img src="https://cdn.sefinek.net/images/bydgobot/server-info/rules.png?website=github" alt="Regulamin serwera" height="225">
 </div>
 
 ## §1 Spis treści
@@ -77,6 +77,6 @@
 
 ## <a id="koncowe-informacje"></a>§9 Końcowe informacje
 1. Nie zezwalam na kopiowanie niniejszego tekstu.
-2. Dla społeczności bota Noel: [Polityka plików Cookies](https://noel.skiffybot.xyz/cookies), [Polityka prywatności](https://noel.skiffybot.xyz/privacy)
-3. E-mail kontaktowy: contact@sefinek.fun lub support@skiffybot.xyz
-4. Przeglądasz dokument w wersji z dnia 07.07.2022 roku.
+2. Dla społeczności bota Noel: [Polityka plików Cookies](https://noel.sefinek.net/cookies), [Polityka prywatności](https://noel.sefinek.net/privacy)
+3. E-mail kontaktowy: contact@sefinek.net
+4. Przeglądasz dokument w wersji z dnia 12.10.2022 roku.
